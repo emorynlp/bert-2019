@@ -1,6 +1,6 @@
 # BERT SOTA Baseline
 
-Source code for paper Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT.
+Source code for paper [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/pdf/1908.04943.pdf).
 
 ## Requirements
 
