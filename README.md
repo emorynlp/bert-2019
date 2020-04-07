@@ -1,6 +1,6 @@
 # BERT SOTA Baseline
 
-Source code for paper [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/pdf/1908.04943.pdf).
+Source code for paper [Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT](https://arxiv.org/pdf/1908.04943.pdf), to be published in The Thirty-Third International Flairs Conference proceedings.
 
 ## Requirements
 
@@ -19,5 +19,18 @@ All experiment entrypoints are placed in [`test/script`](https://github.com/emor
 ```bash
 export PYTHONPATH=.:$PYTHONPATH
 python3 test/script/ptb_bert_auto.py
+```
+
+### References
+
+If you use this repository in your research, please kindly cite our FLAIRS-33 paper:
+
+```bibtex
+@inproceedings{bertbaseline,
+  title={Establishing Strong Baselines for the New Decade: Sequence Tagging, Syntactic and Semantic Parsing with BERT},
+  author={He, Han and Choi, Jinho},
+  booktitle={The Thirty-Third International Flairs Conference},
+  year={2020}
+}
 ```
 
